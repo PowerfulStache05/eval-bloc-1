@@ -1,0 +1,20 @@
+* {
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+body {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    color: #3555FF;
+}
+
+h1, div {
+    text-align: center;
+}
